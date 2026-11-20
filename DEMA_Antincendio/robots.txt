@@ -1,4 +1,3 @@
-User-agent: *
+User-agent:*
 Allow: /
-
-Sitemap: https://dema-antincendio.github.io/dema-antincendio/DEMA_Antincendio/sitemap.xml
+Sitemap: https://www.demaantincendio.com/sitemap.xml
